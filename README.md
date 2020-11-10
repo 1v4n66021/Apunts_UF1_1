@@ -44,7 +44,7 @@
 
 
 - Modelos clásicos (predictivos)
-    - Modelo en cascada ![Modelo en cascada](Images/modelo-cascada.jpg)
+    - Modelo en cascada ![Modelo en cascada](Images/modelo-cascada.png)
     - Modelo en V
 - Modelo de construcción de prototipos
 - Modelos evolutivos o incrementales
