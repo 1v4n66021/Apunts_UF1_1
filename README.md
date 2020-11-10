@@ -39,3 +39,14 @@
 - _**Codificación**_: Se encarga de escribir el código fuente.
 - _**Pruebas**_: Se encarga de hacer pruebas para saber que se debe corregir.
 - _**Mantenimiento**_: Se encarga de solucionar los problemas o errores que haya.
+
+### Modelos de desarrollo de software
+
+
+- Modelos clásicos (predictivos)
+    - Modelo en cascada ![Modelo en cascada](Images/modelo-cascada.jpg)
+    - Modelo en V
+- Modelo de construcción de prototipos
+- Modelos evolutivos o incrementales
+    - Modelo en espiral (iterativos)
+    - Metodologías ágiles (adaptativos)
