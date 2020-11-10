@@ -47,7 +47,7 @@
     - Modelo en cascada    
     - Modelo en V ![Modelo en cascada](Images/modelo-cascada.png)
     ![Modelo en V](Images/modelo-v.png)
-- Modelo de construcción de prototipos 
+- Modelo de construcción de prototipos ![Modelo prototipos](Images/modelo_prototipos.png)
 - Modelos evolutivos o incrementales
     - Modelo en espiral (iterativos)
     - Metodologías ágiles (adaptativos)
