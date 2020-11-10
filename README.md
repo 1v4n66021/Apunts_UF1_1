@@ -46,7 +46,7 @@
 - Modelos clásicos (predictivos)
     - Modelo en cascada 
     - Modelo en V ![Modelo en cascada](Images/modelo-cascada.png)
-- Modelo de construcción de prototipos
+- Modelo de construcción de prototipos ![Modelo en V](Images/modelo-v.png)
 - Modelos evolutivos o incrementales
     - Modelo en espiral (iterativos)
     - Metodologías ágiles (adaptativos)
