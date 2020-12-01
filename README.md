@@ -51,3 +51,33 @@
 - Modelos evolutivos o incrementales
     - Modelo en espiral (iterativos)
     - Metodologías ágiles (adaptativos)
+    - Modelo en espiral (iterativos)
+    - Metodologías ágiles (adaptativos)
+        - Kanban
+        - Scrum
+        - XP (eXtreme Programming)
+
+### Lenguajes de programación
+Dentro de los lenguajes de programación nos encontramos con los:
+- Lenguajes compilados
+- Lenguajes interpretados
+Una de las principales ventajas que tienen los lenguajes interpretados es que el código fuente se interpreta directamente, en cambio, el compilado no, pero este a la hora de la ejecución es más eficiente.
+Ademas, tambien nos encontramos con dos tipos de formas de operar, estos son los:
+- Declarativos, que estos necesitan que les indiquemos el resultado a obtener sin especificar los pasos.
+- Imperativos, a estos les indicamos los pasos a seguir para obtener un resultado.
+
+Tambien podemos clasificarlos segúns su nivel de abstracción, que son los siguientes:
+- Bajo nivel
+- Medio nivel
+- Alto nivel
+
+Cuanto mas alto sea el nivel mas facil sera de leer para una persona.
+A la hora de elegir un lenguaje de programación debemos tener en cuenta una cosas:
+- Campo de aplicación
+- Experiencia previa
+- Herramientas de desarrollo
+- Documentación disponible
+- Base de usuarios
+- Reusabilidad
+- Portabilidad
+- Imposición del cliente
